@@ -1,2 +1,0 @@
-# wilson.angular.project
-test
